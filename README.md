@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![main](https://github.com/user-attachments/assets/d0681cb4-bc35-4842-9640-75673959b28b)
-Im a Geek!
-Python , php , React , Typescript
+- Im a Geek!
+- Python,php,React,Typescript
 Developer!
-
+- 🔭 I’m currently working on ...
 <!--
 **Amirooo99/Amirooo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
