@@ -1,9 +1,10 @@
 ### Hi there 👋
+### I‘m Amir Bakhshi 🚬
 ![main](https://github.com/user-attachments/assets/d0681cb4-bc35-4842-9640-75673959b28b)
-- Im a Geek!
+### I‘m a Geek! and I‘m Software Engineer🧑‍💻
 - Python,php,React,Typescript
 Developer!
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Telegram Miniapps and Bots.
 <!--
 **Amirooo99/Amirooo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
